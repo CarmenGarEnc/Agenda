@@ -41,7 +41,7 @@ Introducir nombre de usuario registrado y su correspondiente contraseña. Poster
 ![](Imagenes/login2.png)    
 Aparecerá una ventana con dos botones que se podrá escoger el que desee.
 • MODIFICAR: Si pulsa este botón le llevará al menú donde podrá modificar sus datos personales y donde puede incluir opciones de regalos que le gustarían que le hicieran.
-• CONSULTAR: Si pulsa este botón le llevará al menú donde podrá seleccionar al usuario del que desee conocer su información.  
+• CONSULTAR: Si pulsa este botón le llevará al menú donde podrá seleccionar al usuario del que desee conocer su información.    
 ![](Imagenes/Mo_Con.png)   
 A partir de esta ventana todas las ventanas de la aplicación tienen dos botones en la parte superior.  
 ![](Imagenes/btnSV.png)   
@@ -67,7 +67,7 @@ Con pulsar el botón aceptar podrá continuar utilizando el resto de la aplicaci
 ![](Imagenes/menu.png)    
 • DATOS: Una vez seleccione la opción del menú datos, aparecerá una ventana donde se le mostrarán sus datos, dándole la posibilidad de modificar la información que no sea correcta o actualizar los datos en caso de que así fuera.
 No debe dejar campos vacíos, en ese caso aparecerá un mensaje advirtiendo de que debe cumplir esa condición.
-En caso de haber realizado alguna modificación en los datos, si desea guardarlos, simplemente debe de darle a guardar. Aparecerá un mensaje indicado que se han guardado correctamente.
+En caso de haber realizado alguna modificación en los datos, si desea guardarlos, simplemente debe de darle a guardar. Aparecerá un mensaje indicado que se han guardado correctamente.  
 ![](Imagenes/actualizar.png)    
-• LISTA DE DESEOS: Si selecciona esta opción del menú, aparecerá un formulario donde puede indicar los artículos que querría como regalo. Dándole la posibilidad al resto de usuario de darle ideas de lo que podrían regalarle. Una vez lo haya indicado, con accionar el botón de aceptar, toda la información quedará guardada en su perfil. Aparecerá un mensaje indicando que se ha guardado con éxito
+• LISTA DE DESEOS: Si selecciona esta opción del menú, aparecerá un formulario donde puede indicar los artículos que querría como regalo. Dándole la posibilidad al resto de usuario de darle ideas de lo que podrían regalarle. Una vez lo haya indicado, con accionar el botón de aceptar, toda la información quedará guardada en su perfil. Aparecerá un mensaje indicando que se ha guardado con éxito.  
 ![](Imagenes/insertReg.png)    
