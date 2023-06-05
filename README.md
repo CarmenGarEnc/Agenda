@@ -52,7 +52,7 @@ En caso de pulsarlo aparecerá un mensaje de información para confirmar si real
 ![](Imagenes/btnS.png)    
 • CONSULTAR.
 Botón desplegable donde aparecerán todos los usuarios que están registrados hasta ese momento. Seleccione el que desea buscar, y dele al botón buscar para acceder a la información de dicho usuario.  
-![](Imagenes/consultar.png)
+![](Imagenes/consultar.png)  
 • BUSCAR: Al pulsar el botón buscar nos aparece la siguiente ventana en la cual nos dará la posibilidad de visualizar la información del usuario seleccionado, así como descargar un archivo con esa información pulsando el botón descargar.
 En la parte derecha de la ventana, hay una imagen de un carrito. Su función es la de ayudarle en caso de que quiera realizar una búsqueda de los regalos que el usuario ha facilitado.
 Si el usuario que ha consultado si tiene información sobre posibles regalos, al pulsar en la imagen del carrito, le llevará a la venta de selección de regalos. Más adelante se mostrará su funcionamiento.
