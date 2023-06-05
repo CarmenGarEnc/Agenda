@@ -46,7 +46,7 @@ Aparecerá una ventana con dos botones que se podrá escoger el que desee.
 A partir de esta ventana todas las ventanas de la aplicación tienen dos botones en la parte superior.  
 ![](Imagenes/btnSV.png)   
 El botón superior de la izquierda es para volver a la ventana en la que se ha estado anteriormente.  
-![](Imagenes/btnV.png)
+![](Imagenes/btnV.png)  
 En cambio, el botón superior de la derecha es para salir de la aplicación.
 En caso de pulsarlo aparecerá un mensaje de información para confirmar si realmente quiere salir de la aplicación. Si pulsa el botón de Aceptar el programa dejará de ejecutarse y se cerrará. Si pulsa el botón de Cancelar continuará en la ventana donde se encontraba.  
 ![](Imagenes/btnS.png)    
