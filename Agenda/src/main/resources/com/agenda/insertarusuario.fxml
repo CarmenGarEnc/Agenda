@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="500.0" prefWidth="480.0" styleClass="fondoConsultar" stylesheets="@../../css/estilo.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.agenda.controller.InsertarUsuarioController">
+   <children>
+      <Button fx:id="btnGuardar" layoutX="150.0" layoutY="440.0" mnemonicParsing="false" onAction="#guardar" styleClass="botton" stylesheets="@../../css/estilo.css" text="Guardar" />
+      <Button fx:id="btnSalir" layoutX="440.0" layoutY="14.0" mnemonicParsing="false" onAction="#salir" styleClass="xBotton" stylesheets="@../../css/estilo.css" text="X" />
+      <Label layoutX="130.0" layoutY="169.0" styleClass="letras" stylesheets="@../../css/estilo.css" text="Contraseña" />
+      <TextField fx:id="txtNombre" layoutX="226.0" layoutY="209.0" prefWidth="174.0" stylesheets="@../../css/estilo.css" />
+      <TextField fx:id="txtTelefono" layoutX="226.0" layoutY="252.0" prefWidth="174.0" stylesheets="@../../css/estilo.css" />
+      <Label layoutX="155.0" layoutY="212.0" styleClass="letras" stylesheets="@../../css/estilo.css" text="Nombre" />
+      <Label layoutX="150.0" layoutY="255.0" styleClass="letras" stylesheets="@../../css/estilo.css" text="Telefono" />
+      <TextField fx:id="txtDireccion" layoutX="226.0" layoutY="297.0" prefWidth="174.0" stylesheets="@../../css/estilo.css" />
+      <Label layoutX="145.0" layoutY="300.0" styleClass="letras" stylesheets="@../../css/estilo.css" text="Direccion" />
+      <TextField fx:id="txtEmail" layoutX="226.0" layoutY="341.0" prefWidth="174.0" stylesheets="@../../css/estilo.css" />
+      <Label layoutX="170.0" layoutY="344.0" styleClass="letras" stylesheets="@../../css/estilo.css" text="Email" />
+      <Label layoutX="84.0" layoutY="386.0" styleClass="letras" stylesheets="@../../css/estilo.css" text="Fecha Nacimiento" />
+      <TextField fx:id="txtPassword" layoutX="226.0" layoutY="166.0" prefWidth="174.0" stylesheets="@../../css/estilo.css" />
+      <Label layoutX="196.0" layoutY="126.0" styleClass="letras" stylesheets="@../../css/estilo.css" text="ID" />
+      <TextField fx:id="txtId" layoutX="226.0" layoutY="123.0" prefHeight="25.0" prefWidth="174.0" stylesheets="@../../css/estilo.css" />
+      <Button fx:id="btnBorrarUsuario" layoutX="276.0" layoutY="440.0" mnemonicParsing="false" onAction="#borrarUsuario" styleClass="botton" stylesheets="@../../css/estilo.css" text="Borrar" />
+      <Button fx:id="btnVolver" layoutX="19.0" layoutY="14.0" mnemonicParsing="false" onAction="#volver" styleClass="xBotton" stylesheets="@../../css/estilo.css" text="&lt;" />
+      <DatePicker fx:id="dpFnacimiento" layoutX="227.0" layoutY="384.0" />
+   </children>
+</AnchorPane>

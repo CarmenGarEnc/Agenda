@@ -1,0 +1,80 @@
+/*------------FONDOS---------------------*/
+.fondoInicio{
+	-fx-background-image: url(./fondo.jpg);
+	-fx-background-size: cover;
+}
+.fondoConsultar{
+	-fx-background-image: url(./fondo2.jpg);
+	-fx-background-size: cover;
+}
+.fondoCompra{
+	-fx-background-image: url(./compra.png);
+	-fx-background-size: 40px 40px;
+	-fx-border-radius: 20;
+	-fx-effect: dropshadow( gaussian, rgba(0,0,0,0.8), 10, 0.5, 0, 0 );
+	
+}
+.fondoCompra:hover{
+	-fx-scale: 1.2;
+}
+/*------------BOTONES------------------*/
+
+/*Boton accion*/
+.botton{
+ -fx-background-color:#BDBDBD;
+ -fx-background-radius: 20 20 20 20;
+ -fx-border-radius: 20 20 20 20;
+ -fx-effect: dropshadow( gaussian, rgba(0,0,0,0.8), 10, 0.5, 0, 0 );
+ -fx-font-size: 14px;
+ -fx-text-fill: black;
+ -fx-pref-width: 100px;
+ -fx-pref-height: 40px;
+}
+.botton:hover {
+    -fx-background-color: #FFE57F;
+}
+.bottonXL{
+ -fx-pref-width: 200px;
+}
+/*Boton de cierre y volver*/
+.xBotton {
+    -fx-background-radius: 20 20 20 20;
+    -fx-border-radius: 20 20 20 20;
+}
+.xBotton:hover {
+    -fx-background-color: #FFE57F;
+}
+.bdesplegable{
+ -fx-background-color:#BDBDBD;
+ -fx-background-radius: 20 20 20 20;
+ -fx-border-radius: 20 20 20 20;
+ -fx-effect: dropshadow( gaussian, rgba(0,0,0,0.8), 10, 0.5, 0, 0 );
+ -fx-font-size: 14px;
+ -fx-text-fill: black;
+ -fx-pref-height: 40px;
+}
+/*.bdesplegable:selected{
+ -fx-background-color:#BDBDBD;
+ -fx-background-radius: 20 20 20 20;
+ -fx-border-radius: 20 20 20 20;
+ -fx-effect: dropshadow( gaussian, rgba(0,0,0,0.8), 10, 0.5, 0, 0 );
+ -fx-font-size: 14px;
+ -fx-text-fill: black;
+ -fx-pref-height: 40px;
+}*/
+.bdesplegable:hover {
+    -fx-background-color: #FFE57F;
+}
+/*--------------ROTULOS------------------*/
+.letras{
+    -fx-font-size: 16px;
+	-fx-font-style: italic;
+	-fx-font-family: Arial;
+}
+
+
+
+/*------------------------------------------------------------------*/
+
+
+
