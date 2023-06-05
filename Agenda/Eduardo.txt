@@ -1,0 +1,12 @@
+Nombre: Eduardo
+Telefono: 45
+Dirección: d
+Email: ed@m
+Fecha de Nacimiento: 1980-09-29
+=====================================
+Sugerencia de regalos para Eduardo.
+1: Avellanas.
+2: Zelda.
+3: Dados de rol.
+4: Lotería.
+5: Impresora 3D.
