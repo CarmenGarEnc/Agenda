@@ -1,8 +1,8 @@
 # AGENDA
-##Manual de Usuario.
+## Manual de Usuario.
 Hay dos tipos de usuarios, el usuario Admin que tiene unas acciones concretas y el resto de usuarios que pueden realizar unas tareas concretas. 
 Aunque ambos tienen acciones comunes,lo más conveniente es hacer dos manuales uno para cada tipo de usuario que interactúe con la aplicación.
-###Admin.
+### Admin.
 Introducir nombre de usuario Admin y su correspondiente contraseña. Posteriormente pulsar Login para entrar en la aplicación.
 ![Imagenes/login.png]
 Aparecerá una ventana con dos botones que se podrá escoger el que desee.
@@ -36,7 +36,7 @@ Para el campo de Fecha de nacimiento, hay un botón de calendario mediante el cu
 ![Imagenes/insertar.png]
 • BORRAR USUARIOS: Introduzca el ID del usuario que desea borrar. No hace falta rellenar ningún otro campo del usuario. Seleccione el botón borrar. EN caso de que el ID no corresponda a ningún usuario registrado, aparecerá una ventana emergente indicando esta situación.
 En caso de existir el usuario, aparecerá una ventana indicando si el usuario se ha podido borrar correctamente o no.
-##Usuario.
+## Usuario.
 Introducir nombre de usuario registrado y su correspondiente contraseña. Posteriormente pulsar Login para entrar en la aplicación.
 ![Imagenes/login2.png]
 Aparecerá una ventana con dos botones que se podrá escoger el que desee.
