@@ -4,7 +4,7 @@ Hay dos tipos de usuarios, el usuario Admin que tiene unas acciones concretas y 
 Aunque ambos tienen acciones comunes,lo más conveniente es hacer dos manuales uno para cada tipo de usuario que interactúe con la aplicación.
 ### Admin.
 Introducir nombre de usuario Admin y su correspondiente contraseña. Posteriormente pulsar Login para entrar en la aplicación.
-![login](Imagenes/login.png)
+![login](Imagenes/login.png)    
 Aparecerá una ventana con dos botones que se podrá escoger el que desee.
 • MODIFICAR: Si pulsa este botón le llevará al menú donde podrá dar de alta a nuevos usuarios.
 • CONSULTAR: Si pulsa este botón le llevará al menú donde podrá seleccionar al usuario del que desee conocer su información.
